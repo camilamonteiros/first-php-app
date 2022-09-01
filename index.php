@@ -40,3 +40,4 @@ if(file_exists($page_template)){
 }
 
 require_once 'templates/foot.php';
+?> 

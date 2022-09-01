@@ -4,3 +4,4 @@ function url_redirect($values = []){
     header('Location: http://localhost/first-php-app?'. $buildQueryString);
     exit;
 }
+?>

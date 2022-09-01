@@ -15,3 +15,4 @@ if (($login == USER_LOGIN) && ($password == USER_PASSWORD)){
     url_redirect(['route' => 'login']);
 
 }
+?>

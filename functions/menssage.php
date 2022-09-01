@@ -20,3 +20,4 @@ function get_flash_message() {
         return $flashMessage;
     }
 }
+?>
